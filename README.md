@@ -1,2 +1,3 @@
 # Data Privacy Practical Questions
-Data Privacy
+Practical 4 - use "textfile.txt"
+Practical 5 - use "dict.txt"
